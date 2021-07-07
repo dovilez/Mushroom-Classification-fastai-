@@ -1,5 +1,5 @@
 # Mushroom Classification with fastai
-> creating a model that can recognize mushroom types from images
+> A model that can recognize mushroom types from images
 
 ## Table of contents
 * [General info](#general-info)
