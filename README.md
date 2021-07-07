@@ -1,6 +1,4 @@
-# Mushroom-Classification-fastai-
-
-# Mushroom Classification with fasta
+# Mushroom Classification with fastai
 > creating a model that can recognize mushroom types from images
 
 ## Table of contents
